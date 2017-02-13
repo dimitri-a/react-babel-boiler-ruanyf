@@ -1,3 +1,7 @@
+
+http://stackoverflow.com/questions/42195129/how-to-import-module-into-jsx
+
+
 This repo is a boilerplate for React-Babel-Webpack project. You could use it as a base to build your own web app.
 
 ## Features

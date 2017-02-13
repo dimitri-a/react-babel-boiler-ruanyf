@@ -2,7 +2,7 @@ import React from 'react';
 
 require('./App.css');
 
- const names =['Jack','Bob','Polo']
+const names =['Jack','Bob','Polo']
 
 //filter names
 const filtered =names.filter( n => n.length>3)
